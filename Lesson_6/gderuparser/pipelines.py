@@ -12,7 +12,7 @@ from pymongo import MongoClient
 class DataBasePipeline(object):
     def __init__(self):
         client = MongoClient('localhost',27017)
-        self.mongo_base = client.avito_photo
+        self.mongo_base = client.gderu_photo
     def process_item(self, item, spider):
         collection = self.mongo_base[spider.name]
         collection.insert_one(item)
@@ -23,12 +23,15 @@ class DataBasePipeline(object):
 
 class GderuPhotosPipeline(ImagesPipeline):
     def get_media_requests(self, item, info):
-        if item['photos']:
-            for img in item['photos']:
-                try:
-                    yield scrapy.Request(img)
-                except Exception as e:
-                    print(e)
+        try:
+            if item['photos']:
+                for img in item['photos']:
+                    try:
+                        yield scrapy.Request(img)
+                    except Exception as e:
+                        print(e)
+        except KeyError:
+            pass
 
 
     def item_completed(self, results, item, info):
