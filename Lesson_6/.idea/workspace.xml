@@ -1,80 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04efb535-f266-46ea-aa07-e0253f49f77b" name="Default Changelist" comment="" />
-    <list id="81d86af5-3c85-4226-82bb-23fffc12d15b" name="Lesson_6" comment="">
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/0892e6293725739573531c6a1a1618895187df15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/0d99df046ddd16aeabcf60114181a4af1f15f29d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/0f9c52e66e7a4e2bf1b01ed2710b90ce16f25e64.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/110438ffd7e89e656635b70893b54a30a910ad82.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/14b13c3d29b29ecf82ffea4a6fed48de66742c33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/1534130107252825f477ac84b0e4b0392136ee40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/1b66d85763b7b9ae488e66d0eb7d92d2ac9b2487.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/1b96bdda3f689ab2f75e0ccc7ac234a52b5a71e5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/2e31b7d4d579695457213f953c6e18f2453f879c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/313cba434bff680cc27f6d47a9125b26f0006d99.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/3193724ff696151fb12e71b28e1aefdf1900004a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/320d1f5407218b71f999c0b4019166077bbfefb1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/3e87fdd953feb3699aaeb671bf7b9a7178cf32f6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/3f77e4cf5db60b73960fb7e20182d2573161734e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/40bf4cc592987452884a2d0510a3993f2ccc0be8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/45e7f375028f6db878531cb93bb781722cfdfeba.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/4e91844883aac514a52b626368eebb87f3dbe9ce.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/4eac93c620c5fa5fa32d38496be1c291395aadf5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/5642940e4486ef329a34c9e479285eff7510bac8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/5ee40a349485460c6c588128afbf3005040e8959.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/64ff0892e5ad7450ec1e81afb8a8be0f7131c483.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/695310fe7e7c9685904954a8e79c3d01773dfdd8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/6b9421b39f1e1ad27b735f5776be843ccfb0a00f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/6de644d815feba97849daf8a81d4c20daa514779.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/73faa6ba81124075ec866fe6d24a67644a868747.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/885ef3ea28d4c18d7874418e6825ef13c2502895.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/923db94244c159d5f95b3137feb2958a9ab2c78f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/9457e55c2a1ce8bc5ce4708c6c36e9739b207837.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/9c52361ea557d657636896d85ca3cc10199bef6d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/9faa9085416eb7a60088af302cb955e7f8271997.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/9fbd5174cc44f778c4ec14bead31f23e395f9ca2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/9fd20b7a02c276d42bfcd9c8a41f1812e42ab541.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/a328cfe4ac914be8c2af86a528086d61939afe17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/a556ca1c4baa9497933d70fa3bb7564cbdaea6c9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/a6909188aa292f490508c2f5d1b88a77072841ef.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/a6a223665733106d4f3715a0e079db7c60e995ff.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/a760f0302287cf820a70b8280d81b03b58518fb6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/a9aed64db58147d4173263f2fcde83711297ca40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/b0f8366cd0deb594b73f31eb4403e283ff447cfd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/b501a737b7728f561ef0d5a9c6631e4ba14cb89f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/b680b34f1d55c1da35bc3abfab187c99adbe2280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/b6ce3d33a2b0041b360392a79c53099c13acfcaa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/bc04df967e33b513ace8330ce98b787a1c4776fc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/bc4e81969b08e709da793ca71651413d58e06c48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/bf833608904323d001a2d85a20df548441708f68.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/c3f61b02a1f410494da2f234b62f68eb3c676eba.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/cc77c683388c1bf019ad2457b23d09b2ce5d6fd0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/cf38d8e28d92726f37a12b9aebb20797ba7a9efb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/cfac4dc473f2a5479328c6eedf158204324755cd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/d32fedbef13525510fb01d19873df65c998da3f3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/d428068172fb6f73910cfde659a19266c0493564.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/d450828ed3f6f7903fa8dbc481ad4ba16ee49df0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/dd92ca5c82a0363e48be7e5cea109c28a502b992.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/df5275ca3ceab05a1a38eda0a8bcb80b8884b56d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/e76a73bcdf3467a627f0b3c54c0fbba3eafe8280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/eb9b3bbbbe55dbca20fbf59d193f7a03bba9dec0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/eba938be7e8be2a0d70ed9ed2dd3a652aec489d3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/ec75b5ec5942ed7235f6d00d0a993302f6bb118f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/ee6c4a77ae327b53d2983c91d203287b6d1f4d80.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/f812178c39bd7e40c8dee689dbac9e4d503bd5f6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/fad30cb6cc921698bcfeea4d1c2cc4d97dea1a5b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/fe0bbfe6b64d80051be9cd41905194d3997dc10a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gderuparser/images/full/fe2d96350aa8833b8e27a2ec09496c08a525ae9c.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Lesson_6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lesson_6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="04efb535-f266-46ea-aa07-e0253f49f77b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gderuparser/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/gderuparser/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gderuparser/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/gderuparser/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gderuparser/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/gderuparser/runner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gderuparser/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/gderuparser/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gderuparser/spiders/gderu.py" beforeDir="false" afterPath="$PROJECT_DIR$/gderuparser/spiders/gderu.py" afterDir="false" />
     </list>
+    <list id="81d86af5-3c85-4226-82bb-23fffc12d15b" name="Lesson_6" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +151,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/gderuparser/spiders/gderu.py</url>
-          <line>23</line>
+          <line>25</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
