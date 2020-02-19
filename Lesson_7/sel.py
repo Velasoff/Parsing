@@ -30,7 +30,8 @@ for album in albums:
     genre = driver.find_element_by_xpath('//a[@class="d-link deco-link deco-link_mimic typo"]').text
     year = driver.find_element_by_xpath('//span[@class="typo deco-typo-secondary"]').text
     songs = driver.find_elements_by_xpath(
-        '//div[@class="lightlist__cont"]//div[@class="d-track typo-track d-track_inline-meta d-track__sidebar"]//a[@class="d-track__title deco-link deco-link_stronger"]')
+        '//div[@class="lightlist__cont"]//div[@class="d-track typo-track d-track_inline-meta d-track__sidebar"]'
+        '//a[@class="d-track__title deco-link deco-link_stronger"]')
     song_list = []
     img = driver.find_element_by_class_name('album_selected').find_element_by_tag_name('img').get_attribute('src')
     for song in songs:
