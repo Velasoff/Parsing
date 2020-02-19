@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="04efb535-f266-46ea-aa07-e0253f49f77b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gderuparser/spiders/gderu.py" beforeDir="false" afterPath="$PROJECT_DIR$/gderuparser/spiders/gderu.py" afterDir="false" />
     </list>
     <list id="81d86af5-3c85-4226-82bb-23fffc12d15b" name="Lesson_6" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -145,16 +144,5 @@
     <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" />
     <state x="279" y="58" key="SettingsEditor" />
     <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/gderuparser/spiders/gderu.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
